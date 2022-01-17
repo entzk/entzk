@@ -12,6 +12,10 @@
 - I am always open to trying new things and seeing how I can apply my knowledge to new places
 - I love to travel and spend time in nature!
 
+> Repositories
+
+- Learn more about me in my [awards](https://github.com/entzk/Awards), [extracurricular involvement](https://github.com/entzk/Extracurriculars), and [sample work](https://github.com/entzk/Written-Work) repositories!
+
 > Contact Information
 - You can reach me at my personal email (kirstenentz@outlook.com) or my school email (entzk@mcmaster.ca)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kirsten-entz/)
