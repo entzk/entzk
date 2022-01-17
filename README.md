@@ -6,11 +6,11 @@
 
 > About Me
 - I am currently completing my senior thesis project working with the [Adronov Group](https://www.chemistry.mcmaster.ca/adronov/) at McMaster working on a polymer-based thin-film drug delivery project
-- My previous co-op work term was with Gay Lea Foods R&D working in their analytical lab and pilot plant on a variety of dairy products. I gained experience in using production equipment and following GMP, making a wide-range of dairy products (culturing, incubating), and analytical testing (texture, pH, protein, solids)
-- I have a wide range of interests in chemistry and science - medicinal, environmental, analytical
+- I have a wide range of interests in chemistry and science - medicinal, environmental, analytical, sustainability, materials - I'm open to anything!
 - I love working with people. Collaboration leads to the most success and makes challenges more fun! 
 - Aside from lab work, I enjoy working on social media, science communication, and event planning/hosting as [VP Social](https://macmuscs.wixsite.com/muscs/meet-the-team) on the McMaster Undergraduate Society for the Chemical Sciences
-- I am always open to trying new things and seeing how I can apply my knowledge to new places and experiences
+- I am always open to trying new things and seeing how I can apply my knowledge to new places and experiences - both in and outside the lab
+- I want my scientific work to serve the community _and_ feed my curioisty
 - I love to travel and spend time in nature!
 
 > Repositories
