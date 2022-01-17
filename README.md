@@ -14,7 +14,7 @@
 
 > Repositories
 
-- Learn more about me in my [awards](https://github.com/entzk/Awards), [extracurricular involvement](https://github.com/entzk/Extracurriculars), and [sample work](https://github.com/entzk/Written-Work) repositories!
+- Learn more about me in my [awards](https://github.com/entzk/Awards), [courses](https://github.com/entzk/Courses-Taken), [extracurricular involvement](https://github.com/entzk/Extracurriculars), and [sample work](https://github.com/entzk/Written-Work) repositories!
 
 > Contact Information
 - You can reach me at my personal email (kirstenentz@outlook.com) or my school email (entzk@mcmaster.ca)
